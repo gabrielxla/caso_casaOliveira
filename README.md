@@ -34,6 +34,13 @@ organização dos produtos, maior lucratividade e melhorar a gestão.
 Com a intenção de aumentar o negócio, Roberto está disposto a informatizar 
 sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
 
-### Modelo Conceitual
 <div align="center">
+
+### Modelo Conceitual
+
 <img src="modelo-conceitual.PNG">
+
+### Banco de dados
+
+
+<img src="bancodedados.png">
